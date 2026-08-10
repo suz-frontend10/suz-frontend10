@@ -29,12 +29,12 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Computer Science** undergraduate [@ Aditya University]
-* 🤖 Aspiring AI Engineer focused on Python and intelligent application development
-* 🧠 Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
-* 💻 Building **AI-powered & full-stack applications**
-* 🎥 **Content Creator** sharing my journey, technology, ideas & experiences
-* 📚 Strengthening my foundations in **DSA • OOP • DBMS • Backend Engineering**
+* 🎓**Computer Science** undergraduate [@ Aditya University]
+*  Aspiring AI Engineer focused on Python and intelligent application development
+*  Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
+*  Building **AI-powered & full-stack applications**
+*  **Content Creator** sharing my journey, technology, ideas & experiences
+*  Strengthening my foundations in **DSA • OOP • DBMS • Backend Engineering**
 
 > **I build with AI, learn deeply, and create content around my journey. 🚀**
 
