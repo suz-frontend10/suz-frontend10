@@ -205,11 +205,9 @@ A responsive portfolio showcasing my software engineering projects, AI-focused a
 
 ## 🎥 Content Creator
 
-Beyond coding, I'm also a **Content Creator**.
+**I also create content.**
 
-I enjoy sharing **technology, ideas, experiences, learning, and my journey of growing as a developer and future AI Engineer.**
-
-> **Learn deeply. Build intentionally. Create consistently.**
+It's another way for me to explore the things I'm interested in, express myself, and share pieces of my journey as I learn and grow.
 
 ---
 
