@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science undergraduate [@ Aditya University]
+* 🎓 **Computer Science** undergraduate [@ Aditya University]
 * 🤖 Aspiring AI Engineer focused on Python and intelligent application development
 * 🧠 Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
 * 💻 Building **AI-powered & full-stack applications**
