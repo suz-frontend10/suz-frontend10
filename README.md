@@ -201,7 +201,7 @@ My current learning roadmap focuses on building **production-ready AI applicatio
 
 A little tech, a little chaos, and a lot of me.
 
-I make content around things I’m learning, things I find interesting, and the random thoughts that make me laugh — basically, whatever feels worth sharing.
+I make content around things I’m learning, things I find interesting, and the random thoughts that make me laugh  basically, whatever feels worth sharing.
 ## 📊 GitHub Stats
 
 <p align="center">
