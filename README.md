@@ -206,17 +206,30 @@ I make content around things I’m learning, things I find interesting, and the 
 
 <p align="center">
   <a href="https://github.com/suz-frontend10">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=suz-frontend10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Susanna's GitHub Stats" />
+    <img
+      width="495"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=suz-frontend10&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+      alt="Susanna's GitHub Stats"
+    />
   </a>
   <a href="https://github.com/suz-frontend10">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suz-frontend10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img
+      width="495"
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=suz-frontend10&layout=compact&theme=tokyonight&hide_border=true&card_width=495"
+      alt="Top Languages"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suz-frontend10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    width="495"
+    src="https://streak-stats.demolab.com?user=suz-frontend10&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
