@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Susanna Hebzibah
+# Hey, I'm Susanna Hebzibah
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Susanna+Hebzibah;Aspiring+AI+Engineer+%7C+Content+Creator;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents" alt="Typing SVG" />
@@ -29,8 +29,8 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Computer Science undergraduate** @ Aditya University
-* 🤖 **Aspiring AI Engineer** focused on Python and intelligent application development
+* 🎓 Computer Science undergraduate [@ Aditya University]
+* 🤖 Aspiring AI Engineer focused on Python and intelligent application development
 * 🧠 Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
 * 💻 Building **AI-powered & full-stack applications**
 * 🎥 **Content Creator** sharing my journey, technology, ideas & experiences
