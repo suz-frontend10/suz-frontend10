@@ -239,42 +239,31 @@ It's another way for me to explore the things I'm interested in, express myself,
   <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Email" />
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
   <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
 </a>
 
-  
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/suzycoreeeeee/">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" alt="Instagram" />
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://portfolio-website-suzy.vercel.app/">
   <img src="https://skillicons.dev/icons?i=vercel" width="55" alt="Portfolio" />
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55" alt="LeetCode" />
 </a>
 
 </p>
-
-<p align="center">
-
-<a href="mailto:susanna.posupo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-susanna.posupo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
-  <img src="https://img.shields.io/badge/LinkedIn-Susanna%20Hebzibah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://portfolio-website-suzy.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00E7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-</a>
-
-</p>
-
 ---
 
 <p align="center">
