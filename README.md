@@ -4,14 +4,14 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 **Computer Science** undergraduate [@ Aditya University]
-* Aspiring AI Engineer focused on Python and intelligent application development
-* Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
-* Building **AI-powered & full-stack applications**
-* **Content Creator** sharing my journey, technology, ideas & experiences
-* Strengthening my foundations in **DSA • OOP • DBMS • Backend Engineering**
+- 🎓**Computer Science** undergraduate [@ Aditya University]
+- Aspiring AI Engineer focused on Python and intelligent application development
+- Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
+- Building **AI-powered & full-stack applications**
+- **Content Creator** sharing my journey, technology, ideas & experiences
+- Strengthening my foundations in **DSA • OOP • DBMS • Backend Engineering**
 
-> **Curious about how things work, always learning, and building along the way.**
+> **I build with AI, learn deeply, and create content around my journey. 🚀**
 
 ---
 
@@ -31,17 +31,15 @@ A full-stack academic platform combining academic management with AI-powered int
 
 **Highlights:**
 
-* 🎓 Academic tracking and GPA modeling
-* 👥 Role-based dashboards
-* 🤖 AI-powered mock recruiter
-* 👁️ Real-time webcam attention tracking
-* 📄 LaTeX resume generation
-* ⚙️ Decoupled Spring Boot microservice
-* 🎙️ Optimized interview processing with audio-only recording
+- 🎓 Academic tracking and GPA modeling
+- 👥 Role-based dashboards
+- 🤖 AI-powered mock recruiter
+- 👁️ Real-time webcam attention tracking
+- 📄 LaTeX resume generation
+- ⚙️ Decoupled Spring Boot microservice
+- 🎙️ Optimized interview processing with audio-only recording
 
 **Tech:** `Python` `Java` `Spring Boot` `React` `PostgreSQL` `AI` `REST APIs`
-
-🔗 **[Visit LearnInLoop](https://learninloop.vercel.app/login)**
 
 ---
 
@@ -59,11 +57,11 @@ A responsive portfolio showcasing my software engineering projects, AI-focused a
 
 **Highlights:**
 
-* 📱 Responsive design
-* ✨ Scroll-triggered animations
-* ⚡ Intersection Observer API
-* 🚀 Automated deployment
-* 🔄 CI/CD through Vercel
+- 📱 Responsive design
+- ✨ Scroll-triggered animations
+- ⚡ Intersection Observer API
+- 🚀 Automated deployment
+- 🔄 CI/CD through Vercel
 
 **Tech:** `HTML` `CSS` `JavaScript` `Vercel`
 
@@ -73,8 +71,8 @@ A responsive portfolio showcasing my software engineering projects, AI-focused a
 
 ## 🧠 Currently Learning
 
-🐍 **Python for AI** → 🧠 **LLMs** → 🔎 **Embeddings** → 📚 **RAG** → 🗄️ **Vector Databases**
-→ 🤖 **AI Agents** → 🚀 **AI Engineering**
+🐍 **Python for AI**  → 🧠 **LLMs** → 🔎 **Embeddings**  → 📚 **RAG**  → 🗄️ **Vector Databases**
+ → 🤖 **AI Agents** → 🚀 **AI Engineering**
 
 ## 🎯 My AI Engineering Direction
 
@@ -121,45 +119,3 @@ It's another way for me to explore the things I'm interested in, express myself,
 ## 📊 GitHub Stats
 
 ---
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:susanna.posupo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/suzycoreeeeee/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://portfolio-website-suzy.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" alt="LeetCode" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:susanna.posupo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-susanna.posupo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/suzycoreeeeee/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://portfolio-website-suzy.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00E7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
