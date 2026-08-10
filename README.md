@@ -1,299 +1,91 @@
-# 👋 Hey, I'm Susanna Hebzibah
+## 👩‍💻 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer+%F0%9F%A4%96;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Building+AI-powered+applications;Learning+%E2%86%92+Building+%E2%86%92+Engineering" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:susanna.posupo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+* 🎓 CSE Student @ **Aditya University**
+* 🤖 Aspiring **AI Engineer** focused on Python & AI Development
+* 🧠 Exploring **LLMs • RAG • Embeddings • Vector Databases • AI Agents**
+* 💻 Building **AI-powered & full-stack applications**
+* 🎥 **Content Creator** sharing my learning & tech journey
+* 📚 Strengthening **DSA • OOP • DBMS • Software Engineering**
 
 ---
 
-## 🧠 About Me
+## ⚡ Tech Stack
 
-I'm **Susanna Hebzibah**, a Computer Science undergraduate and aspiring **AI Engineer** focused on building intelligent applications with Python.
+### 🤖 AI & Development
 
-* 🤖 Deeply exploring **LLMs, RAG, embeddings, vector databases, and AI agents**
-* 🐍 Using **Python** as my primary language for AI development
-* 🔬 Interested in understanding how AI systems work beyond simply calling an API
-* 💻 Building full-stack applications to understand how AI integrates with real software
-* 🧩 Strengthening my foundations in **DSA, OOP, DBMS, OS, Computer Networks, and REST APIs**
-* 🎥 Also a **content creator**, sharing my learning journey and experiences
-* 🚀 Working toward becoming an **AI Engineer who can design and build production-ready intelligent systems**
+`Python` `LLMs` `RAG` `Prompt Engineering` `Embeddings` `AI Agents`
 
-> **Learning AI is not enough. I want to understand it, build with it, and engineer it.**
+### 💻 Languages
+
+`Python` `Java` `C` `C++` `SQL`
+
+### 🌐 Frontend
+
+`HTML5` `CSS3` `React.js` `Next.js` `Tailwind CSS`
+
+### ⚙️ Backend & Databases
+
+`Node.js` `Spring Boot` `PostgreSQL` `Supabase` `Firebase`
+
+### 🛠️ Tools
+
+`Git` `GitHub` `VS Code` `Vercel`
 
 ---
 
-# 🤖 AI Engineering
+## 🚀 Featured Projects
 
-My primary direction is **AI Engineering** — building applications around modern AI systems and gradually going deeper into how they work.
+📚 **Learning Management & Academic Automation System**
+Full-stack academic platform featuring academic trackers, GPA modelers, role-based dashboards, and an **AI-powered mock recruiter** with real-time webcam attention tracking.
 
-### 🧠 Currently Exploring
+⚙️ **Resume Generation Microservice**
+Decoupled **Java Spring Boot** microservice that asynchronously generates and compiles LaTeX resumes, designed for better scalability and responsiveness.
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-00A67E?style=for-the-badge"/>
-</p>
+🌐 **Personal Developer Portfolio**
+Responsive developer portfolio showcasing my software engineering projects, AI-focused applications, skills, and achievements, with automated CI/CD deployment through Vercel.
 
-<p>
-<img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Semantic%20Search-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Application%20Development-EC4899?style=for-the-badge"/>
-</p>
+---
 
-### 🔬 Areas of Interest
+## 🧠 Currently Exploring
 
 ```text
-Large Language Models
-        ↓
-Prompt Engineering
-        ↓
+LLMs
+  ↓
 Embeddings & Semantic Search
-        ↓
-Retrieval-Augmented Generation
-        ↓
+  ↓
+RAG
+  ↓
 Vector Databases
-        ↓
-AI Agents & Agentic Systems
-        ↓
+  ↓
+AI Agents
+  ↓
 AI-Powered Applications
-        ↓
-Production AI Engineering
+  ↓
+AI Engineering 🚀
 ```
 
 ---
 
-# 🚀 Featured Projects
+## 🎥 Content Creator
 
-## 📚 Learning Management & Academic Automation System
+Creating, learning, experimenting, and documenting my journey in **technology, AI, and software development**.
 
-A full-stack academic platform combining academic management with AI-powered career preparation.
-
-### What I Built
-
-* 📊 Academic trackers
-* 🧮 GPA modelers
-* 👥 Role-based dashboards
-* 🤖 AI-powered mock recruiter
-* 🎥 Real-time webcam attention tracking
-* 📄 Asynchronous LaTeX resume generation
-* ⚙️ Decoupled Java Spring Boot microservice
-* 🎙️ Optimized interview recording using audio-only recording
-
-The audio optimization reduced voice-upload payload size by approximately **95%** while maintaining interview quality.
-
-### Tech
-
-`Python` `Java` `Spring Boot` `React` `PostgreSQL` `AI` `REST APIs`
-
-🔗 **[Repository](YOUR_LMS_REPOSITORY)**
-🔗 **[Live Demo](YOUR_LMS_LIVE_DEMO)**
+> **Learn deeply. Build boldly. Share the journey.**
 
 ---
 
-## 🌐 Personal Developer Portfolio
-
-A responsive portfolio designed to showcase my software engineering projects, AI-focused applications, technical skills, and achievements.
-
-### Highlights
-
-* 📱 Responsive design
-* ✨ Scroll-triggered animations
-* ⚡ Native Intersection Observer API
-* 🚀 Automated deployment
-* 🔄 CI/CD through Vercel
-* 📦 GitHub-based production updates
-
-### Tech
-
-`HTML` `CSS` `React` `Next.js` `JavaScript` `Vercel`
-
-🔗 **[Repository](YOUR_PORTFOLIO_REPOSITORY)**
-🔗 **[Live Portfolio](YOUR_PORTFOLIO_URL)**
-
----
-
-# 🛠️ Tech Stack
-
-## 🤖 AI
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector%20Databases-00A67E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge"/>
-</p>
-
-## 💻 Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-## 🎨 Frontend
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-## ⚙️ Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-## 🔧 Developer Tools
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-# 📚 Computer Science Foundations
-
-I believe strong AI engineering requires strong software engineering fundamentals.
-
-```text
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Operating Systems
-Computer Networks
-REST APIs
-Software Engineering
-```
-
----
-
-# 📊 GitHub Stats
+## 🌐 Connect
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 My AI Engineering Roadmap
-
-```text
-                    ┌───────────────────┐
-                    │   AI ENGINEER 🚀  │
-                    └─────────┬─────────┘
-                              │
-                    Production AI Systems
-                              │
-              ┌───────────────┴───────────────┐
-              │                               │
-         AI Applications                AI Agents
-              │                               │
-             RAG                        Agentic Systems
-              │                               │
-       Vector Databases               Tool Calling
-              │                               │
-         Embeddings                   LLM Workflows
-              │                               │
-              └───────────────┬───────────────┘
-                              │
-                            LLMs
-                              │
-                         Python 🐍
-                              │
-                 Software Engineering
-                              │
-                  CS Fundamentals
-```
-
----
-
-# 🌱 Currently Learning
-
-```text
-🤖 Large Language Models
-📚 Retrieval-Augmented Generation
-🔎 Embeddings & Semantic Search
-🗄️ Vector Databases
-🧠 AI Agents
-🐍 Advanced Python for AI
-⚙️ AI Application Architecture
-💻 Software Engineering
-🧩 Data Structures & Algorithms
-```
-
----
-
-# 🎥 Content Creator
-
-Beyond coding, I'm also a **content creator**.
-
-I enjoy sharing my experiences, learning journey, technology, and the process of growing as a developer.
-
-> **Build. Learn. Create. Share. Repeat.**
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
-<img src="https://img.shields.io/badge/LinkedIn-Susanna%20Hebzibah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:susanna.posupo@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-susanna.posupo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>✨ Learning deeply. Building intentionally. Engineering the future with AI.</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <a href="https://www.linkedin.com/in/susanna-hebzibah-posupo">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:susanna.posupo@gmail.com">
+    Email
+  </a>
+  •
+  <a href="https://github.com/YOUR_USERNAME">
+    GitHub
+  </a>
 </p>
