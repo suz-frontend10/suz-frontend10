@@ -131,42 +131,9 @@ A responsive portfolio showcasing my software engineering projects, AI-focused a
 
 <p align="center">
 
-🐍 **Python for AI**
-
- → 
-
-🧠 **LLMs**
-
- → 
-
-🔎 **Embeddings**
-
- → 
-
-📚 **RAG**
-
- → 
-
-🗄️ **Vector Databases**
-
- → 
-
-🤖 **AI Agents**
-
- → 
-
-🐳 **Docker**
-
- → 
-
-☁️ **AWS**
-
- → 
-
-🚀 **AI Engineering**
-
-</p>
-
+🐍 **Python for AI**  → 🧠 **LLMs** → 🔎 **Embeddings**  → 📚 **RAG**  → 🗄️ **Vector Databases** 
+ → 🤖 **AI Agents** → 🚀 **AI Engineering**
+ </p>
 ---
 
 ## 🎯 My AI Engineering Direction
