@@ -197,13 +197,11 @@ My current learning roadmap focuses on building **production-ready AI applicatio
 
 ---
 
-## 🎥 Content Creator
+🎥 Content Creator
 
-**I also create content.**
-**It's another way for me to explore the things I'm interested in, express myself, and share pieces of my journey as I learn and grow.**
-**A little tech, a little chaos, and a lot of me.**
----
+A little tech, a little chaos, and a lot of me.
 
+I make content around things I’m learning, things I find interesting, and the random thoughts that make me laugh — basically, whatever feels worth sharing.
 ## 📊 GitHub Stats
 
 <p align="center">
